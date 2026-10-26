@@ -1,4 +1,4 @@
-# Corner Grocer Item Tracker (CS 210 Project Three)
+# Corner Grocer Item Tracker CS 210 Project Three
 
 Shane De La Rosa, SNHU CS 210 Programming Languages
 
